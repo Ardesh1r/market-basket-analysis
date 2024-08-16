@@ -5,7 +5,8 @@ Data Preprocessing: Converts transactional data into a format suitable for analy
 Frequent Itemsets Generation: Utilizes the Apriori algorithm to find frequent itemsets.
 Association Rule Mining: Generates association rules based on the frequent itemsets.
 Visualization: Provides visual representations of the results, such as bar charts and scatter plots.
-Requirements
+
+Requirements:
 To run this code, you'll need the following Python packages:
 
 - pandas
