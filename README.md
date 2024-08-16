@@ -8,6 +8,6 @@ Visualization: Provides visual representations of the results, such as bar chart
 Requirements
 To run this code, you'll need the following Python packages:
 
-pandas
-mlxtend
-matplotlib
+- pandas
+- mlxtend
+- matplotlib
