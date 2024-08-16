@@ -1,5 +1,3 @@
-Market Basket Analysis
-Overview
 Market Basket Analysis is a data mining technique used to identify patterns and relationships between items frequently purchased together. This code implements Market Basket Analysis using the Apriori algorithm, which helps discover association rules in transactional data. This can be useful for analyzing retail transactions and suggesting products that are often bought together.
 
 Features
